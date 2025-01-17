@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey there, I’m Shomik Das! 👨‍💻✨<br>A Web Developer and BE (CSE) student passionate about turning creative ideas into impactful solutions. 🌟<br><br>🚀 I’m constantly exploring new possibilities in tech, combining innovation and problem-solving to craft experiences that matter. Whether it’s building, learning, or collaborating, I’m all about pushing the limits and making a difference.<br><br>💡 On a journey to grow, create, and leave my mark in the ever-evolving world of technology.<br><br>🎯 Let’s connect and bring bold ideas to life!
+# Hello World!, I'm Shomik Das👋🏼:
+A Web Developer and BE (CSE) student passionate about turning creative ideas into impactful solutions. 🌟<br><br>🚀 I’m constantly exploring new possibilities in tech, combining innovation and problem-solving to craft experiences that matter. Whether it’s building, learning, or collaborating, I’m all about pushing the limits and making a difference.<br><br>💡 On a journey to grow, create, and leave my mark in the ever-evolving world of technology.<br><br>🎯 Let’s connect and bring bold ideas to life!
 
 
 ## 🌐 Socials:
