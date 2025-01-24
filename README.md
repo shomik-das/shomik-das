@@ -18,8 +18,9 @@ Passionate about crafting impactful digital experiences by turning creative idea
 <!--![](https://github-readme-stats.vercel.app/api?username=shomik-das&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shomik-das&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shomik_das) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shomikdas) 
+## Socials:  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shomik_das)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shomikdas)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shomikdas07/)  
+
 
 <!--!### 🔝 Top Contributed Repo
 [](https://github-contributor-stats.vercel.app/api?username=shomik-das&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
